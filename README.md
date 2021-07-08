@@ -3,4 +3,4 @@ Sistem Analizi ve Tasarımı Proje Masaüstü Uygulaması
 
 * Bu proje Sistem Analizi ve Tasarımı dersinin dönem projesi olarak verilmiştir.
 * Bu uygulama 5 kişilik grup çalışması sonucunda elde edilmiştir.
-* Yazılan kodların tamamı bana ait tasarımlar ve planlama grup çalışmasıdır.
+* Yazılan kodların tamamı bana ait, tasarımlar ve planlama grup çalışmasıdır.
